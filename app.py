@@ -304,7 +304,7 @@ def generate_task(categories=None):
 init_state()
 
 st.title("⏳ A pénz időértéke – gyakorlófelület")
-st.caption("A feltöltött számítási feladatsor típusaira épülő Streamlit app. NPV-feladatok nélkül.")
+st.caption("© Csongrádi")
 
 tab1, tab2, tab3, tab4 = st.tabs([
     "Gyakorló feladatok",
